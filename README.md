@@ -2,7 +2,7 @@
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?size=24&center=true&multiline=true&height=100&lines=Hello%2C+Everyone!+;With+state+of+art+tech;Let's+revolutionize+the+world.;The+beautiful+world+is+ourselves.">
+    <img src="https://readme-typing-svg.herokuapp.com?size=24&center=true&multiline=true&height=200&lines=Hello%2C+Everyone!+;With+state+of+art+tech;Let's+revolutionize+the+world.;The+beautiful+world+is+ourselves.">
   </a>
 </h1>
 
@@ -38,9 +38,6 @@
   </a> 
   <a href="https://www.djangoproject.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" height="25"/>
-  </a>
-  <a href="https://expressjs.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" height="25"/>
   </a>
   <a href="https://nextjs.org/" target="_blank">
     <img src="https://cdn.worldvectorlogo.com/logos/nextjs-3.svg" alt="nextjs" height="25"/>
