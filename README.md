@@ -5,7 +5,11 @@
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?size=24&center=true&multiline=true&height=200&lines=Hello%2C+Everyone!+;With+state+of+art+tech;Let's+revolutionize+the+world.;Beautiful+world+is+ourselves.">
   </a>
+    <a href="/"><img src="https://img.shields.io/static/v1?label=&labelColor=505050&message=findwrk&color=%230076D6&style=flat&logo=google-chrome&logoColor=%230076D6" alt="website"/></a>
+  <img src="https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20Useful&style=style=flat&color=BC4E99" alt="Star Badge"/>
+  <a href="https://join.skype.com/invite/WMEJuPQ3viqA"><img src="https://img.shields.io/discord/733027681184251937.svg?style=flat&label=Join%20Community&color=7289DA" alt="Join Community Badge"/></a>
 </h1>
+
 
 <br>
 <p align="center">
