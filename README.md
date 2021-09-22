@@ -13,13 +13,10 @@
   <br>
   I am about to revolutionize the world with blockchain.
   <br>
-  🔬 I'm currently working on defi projects such as pancakeswap, uniswap, sushiswap on several networks
+  🔬 I'm currently working on defi projects such as pancakeswap, uniswap, sushiswap,solana and cardano on several networks. 
   <br>
-  🎓 I graduated from Singapore Institute of Technology Computer Engineering Department
-  <br>
-  💻 I love writing code and learn something newer and newer
-  <br>
-  📚 I’m currently focusing solana and cardano networks
+  💻 I love state of art tech and learn something newer and newer.
+  My idea is to implement blockchain in every field of polity, economy, culture.
   <br>
   📫 How to reach me(email): <a href="mailto: vassul.man@gmail.com">vassul.man@gmail.com</a>
   <br>
