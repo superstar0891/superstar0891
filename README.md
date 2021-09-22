@@ -4,7 +4,7 @@
   <a href="https://join.skype.com/invite/WMEJuPQ3viqA"><img src="https://img.shields.io/discord/733027681184251937.svg?style=flat&label=Join%20Community&color=7289DA" alt="Join Community Badge"/></a>
 </h1>
 <!-- <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=freedevsoft.freedevsoft"> -->
-<p align="center"><img align="center" src="https://github.com/superstar0891/superstar0891/blob/main/download.jfif?raw=true" style = "width:100%;"/></p>
+<!-- <p align="center"><img align="center" src="https://github.com/superstar0891/superstar0891/blob/main/download.jfif?raw=true" style = "width:100%;"/></p> -->
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
