@@ -1,5 +1,5 @@
 <!-- <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=freedevsoft.freedevsoft"> -->
-<p align="center"><img align="center" src="https://github.com/superstar0891/superstar0891/blob/main/images.jfif?raw=true" style = "width: -webkit-fill-available;"/></p>
+<p align="center"><img align="center" src="https://github.com/superstar0891/superstar0891/blob/main/images1.jfif?raw=true" style = "width:100%;"/></p>
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
