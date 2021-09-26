@@ -28,6 +28,8 @@
   📫 How to reach me(email): <a href="mailto: vassul.man@gmail.com">vassul.man@gmail.com</a>
   <br>
   📫 How to reach me(telegram): <a href="https://t.me/Superstar">@Superstar</a>
+  <br>
+  📫 How to reach me(skype): live:.cid.2ccc7fd2d542076f </a>
 </p>
 
 <hr>
