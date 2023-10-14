@@ -15,21 +15,21 @@
 
 <br>
 <p align="center">
-  Hi, I'm vitalli, Blockchain Superstar
+  Hi, I'm Louie Castro, the Web developer.
   <br>
   <br>
   I am about to revolutionize the world with blockchain.
   <br>
-  🔬 I'm currently working on defi projects such as pancakeswap, uniswap, sushiswap,solana and cardano on several networks. 
+  🔬 I'm working on several networks on defi projects such as pancakeswap, uniswap, sushiswap,solana and cardano. 
   <br>
-  💻 I love state of art tech and learn something newer and newer.
-  My idea is to implement blockchain in every field of polity, economy, culture.
+  💻 I love state-of-the-art tech and learning something newer and newer.
+  My idea is to implement blockchain in every polity, economy, and culture field.
   <br>
   📫 How to reach me(email): <a href="mailto: vassul.man@gmail.com">vassul.man@gmail.com</a>
   <br>
-  📫 How to reach me(telegram): <a href="https://t.me/Superstar">@Superstar</a>
+  📫 How to reach me(telegram): <a href="https://t.me/LCastro0891"">@LCastro0891</a>
   <br>
-  📫 How to reach me(skype): live:.cid.2ccc7fd2d542076f </a>
+  📫 How to reach me(skype): <a href="https://join.skype.com/invite/wNcwjY1I8nD5"  target="_blank">live:.cid.e2fd472e04a66273 </a>
 </p>
 
 <hr>
