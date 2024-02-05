@@ -15,7 +15,7 @@
 
 <br>
 <p align="center">
-  Hi, I'm Louie Castro, the Web developer.
+  Hi, I'm Louie Castro, the Software developer.
   <br>
   <br>
   I am about to revolutionize the world with blockchain.
